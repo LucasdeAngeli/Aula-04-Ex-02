@@ -33,19 +33,24 @@ class MainClass {
     if (cod == 100){
       Console.WriteLine("Valor Total: R$ {0}", 1.70*quant);
     }
-    else if (cod == 101){
+    else 
+    if (cod == 101){
       Console.WriteLine("Valor Total: R$ {0}", 2.30*quant);
     }
-    else if (cod == 102){
+    else 
+    if (cod == 102){
       Console.WriteLine("Valor Total: R$ {0}", 2.60*quant);
     }
-    else if (cod == 103){
+    else 
+    if (cod == 103){
       Console.WriteLine("Valor Total: R$ {0}", 2.40*quant);
     }
-    else if (cod == 104){
+    else 
+    if (cod == 104){
       Console.WriteLine("Valor Total: R$ {0}", 2.50*quant);
     }
-    else if (cod == 105){
+    else 
+    if (cod == 105){
       Console.WriteLine("Valor Total: R$ {0}", 1.00*quant);
     }
     else{
