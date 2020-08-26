@@ -54,7 +54,7 @@ class MainClass {
       Console.WriteLine("Valor Total: R$ {0}", 1.00*quant);
     }
     else{
-      Console.WriteLine("Código Inválido. Digite um código válido: ");
+      Console.WriteLine("Código Incorreto");
     }
   }
 }
